@@ -2,6 +2,11 @@ Dubai Real Estate Property Price Prediction
 Project Overview:
 The aim of this project is to predict the actual prices of properties in Dubai's real estate market. By utilizing machine learning models, we aim to provide accurate price estimates for different properties. This project can assist buyers, sellers, and industry professionals in making informed decisions within the dynamic real estate landscape of Dubai.
 
+About Dataset
+This dataset provides comprehensive information on various types of real estate transactions in Dubai, including property sales, rentals, and transfers. It covers a wide range of transaction details, such as property type, usage, registration, area, building and project information, nearest landmarks, facilities, and transaction values.
+
+Data is published with open data license https://www.dubaipulse.gov.ae/docs/DDE _ DRAFT_Open_Data Licence_LONG_Form_English 3.pdf
+
 Installation Instructions:
 Clone the repository to your local machine.
 Install all the required libraries for data analysis and the scikit-learn library.
